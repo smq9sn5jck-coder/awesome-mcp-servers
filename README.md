@@ -1723,7 +1723,6 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 
 ### ⚖️ <a name="legal"></a>Legal
 
-Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 
 - [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act) [![mcp-eu-ai-act MCP server](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act/badges/score.svg)](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act) 📇 ☁️ - EU AI Act compliance scanner that detects regulatory violations in AI codebases with risk classification and remediation guidance.
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
@@ -1732,6 +1731,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 - [NexusFeed/nexusfeed-mcp](https://github.com/NexusFeed/nexusfeed-mcp) [![NexusFeed/nexusfeed-mcp MCP server](https://glama.ai/mcp/servers/NexusFeed/nexusfeed-mcp/badges/score.svg)](https://glama.ai/mcp/servers/NexusFeed/nexusfeed-mcp) 🐍 ☁️ - US state ABC liquor license compliance lookup (CA, TX, NY, FL) — search by trade name, owner, or license number and verify status, expiration, and address against state portals. Every response includes a verifiability block with extraction confidence and source URL.
 - [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) [![open-agreements/open-agreements MCP server](https://glama.ai/mcp/servers/open-agreements/open-agreements/badges/score.svg)](https://glama.ai/mcp/servers/open-agreements/open-agreements) 📇 🏠 ☁️ 🍎 🐧 🪟 - Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs, employment, cloud terms) and produce signable DOCX files.
 - [philrox/ris-mcp-ts](https://github.com/philrox/ris-mcp-ts) [![philrox/ris-mcp-ts MCP server](https://glama.ai/mcp/servers/philrox/ris-mcp-ts/badges/score.svg)](https://glama.ai/mcp/servers/philrox/ris-mcp-ts) 📇 ☁️ - Access Austrian federal laws, state laws, court decisions, and legal documents via the RIS (Rechtsinformationssystem) API with 12 specialized tools.
+- [smq9sn5jck-coder/causallayer-mcp](https://github.com/smq9sn5jck-coder/causallayer-mcp) [![causallayer-mcp MCP server](https://glama.ai/mcp/servers/@anthropic-ai/causallayer-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@anthropic-ai/causallayer-mcp) 📇 ☁️ - Deterministic AI liability attribution engine for insurance and legal. 17 tools: score incidents, attribute fault across multi-agent systems, generate Bitcoin-anchored cryptographic proof certificates, and produce ACORD 850 loss notices. Supports EU AI Act, Colorado AI Act, NAIC Model Bulletin compliance. Remote server at mcp.faultkey.com/mcp.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
